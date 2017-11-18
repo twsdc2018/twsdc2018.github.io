@@ -32,3 +32,10 @@ span.icon:before {
   font-family: 'Glyphicons Halflings'; 
   content: "\f015"; 
 } 
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
