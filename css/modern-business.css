@@ -4,6 +4,10 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
 
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 body {
   padding-top: 54px;
 }
@@ -38,4 +42,8 @@ span.icon:before {
     max-width: 100%;
     width: 100%;
     height: auto;
+}
+
+* {
+    font-family: 'Open Sans', serif;
 }
