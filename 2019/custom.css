@@ -1,0 +1,14 @@
+h1 {
+	font-family: "Inter UI";
+	}
+	
+body {
+	font-family: "Inter UI";
+	}
+	
+.jumbotron {
+	background-image: url("img/Cover.jpg");
+	background-position: 50% 57.5%;
+	background-size: cover;
+	width:inherit;
+}
